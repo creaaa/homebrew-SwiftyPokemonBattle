@@ -43,7 +43,7 @@ $ chmod 755 spb
 $ ./spb [option(in detail below)]
 
 
-- Play random battle (Recommended: Please play from this mode)
+- Battle Now (Recommended: Please play from this mode)
 ./spb -r
 
 - Play battle by Pokemons you've stored in advance (For Expert)
@@ -167,7 +167,7 @@ $ chmod 755 spb
 $ ./spb [オプション(詳細は以下)]
 
 
-- ランダムバトル！ (推奨: はじめての方は まずこちらから 遊んでね)
+- とにかくバトルがしたい! (推奨: はじめての方は まずこちらから 遊んでね)
 ./spb -r
 
 - あらかじめ保存したポケモンでバトル！ (エキスパート向け)

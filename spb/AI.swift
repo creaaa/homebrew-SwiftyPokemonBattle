@@ -480,9 +480,9 @@ class AI {
     // 行動様式1: quickAttackForfatalBlow(とどめの先制技)
     func quickAttackForfatalBlow() {
         
-        myBVC.enqueue(reveivedStr: "とどめの 先制技!")
-        
-        myBVC.outputBattleMessageLikeTypeWriter()
+//        myBVC.enqueue(reveivedStr: "とどめの 先制技!")
+//        
+//        myBVC.outputBattleMessageLikeTypeWriter()
 
         
         searchMoveByBehavior()
@@ -519,9 +519,9 @@ class AI {
     // 行動様式2: aggressiveWeakPointAttack(無鉄砲な弱点攻撃)
     func aggressiveWeakPointAttack() {
         
-        myBVC.enqueue(reveivedStr: "無鉄砲な 弱点攻撃!")
-        
-        myBVC.outputBattleMessageLikeTypeWriter()
+//        myBVC.enqueue(reveivedStr: "無鉄砲な 弱点攻撃!")
+//        
+//        myBVC.outputBattleMessageLikeTypeWriter()
         
         
         searchMoveByBehavior()
@@ -557,8 +557,8 @@ class AI {
     // 行動様式3: pokemonChangeToGoodAffinityType(相性有利なポケモンにチェンジする)
     func pokemonChangeToGoodAffinityType() {
         
-        myBVC.enqueue(reveivedStr: "相性有利なポケモンへチェンジ!")
-        myBVC.outputBattleMessageLikeTypeWriter()
+//        myBVC.enqueue(reveivedStr: "相性有利なポケモンへチェンジ!")
+//        myBVC.outputBattleMessageLikeTypeWriter()
         
         let changeable: (changable: Bool, count: Int) = self.isChangable()
 
@@ -584,8 +584,8 @@ class AI {
         decidedActionStyle = .normalAttackMove
 
         
-        myBVC.enqueue(reveivedStr: "ふつうに 攻撃！")
-        myBVC.outputBattleMessageLikeTypeWriter()
+//        myBVC.enqueue(reveivedStr: "ふつうに 攻撃！")
+//        myBVC.outputBattleMessageLikeTypeWriter()
         
         
         searchMoveByDecidedActionStyle()
@@ -616,9 +616,9 @@ class AI {
     // 行動様式null: ヌル
     func null() {
         
-        myBVC.enqueue(reveivedStr: "ヌル!")
-        
-        myBVC.outputBattleMessageLikeTypeWriter()
+//        myBVC.enqueue(reveivedStr: "ヌル!")
+//        
+//        myBVC.outputBattleMessageLikeTypeWriter()
         
         var KOcount = 0
         

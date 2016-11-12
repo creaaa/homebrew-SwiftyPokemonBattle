@@ -62,7 +62,7 @@ struct BattleViewController {
             case "slow":
                 return 0.5
             case "middle":
-                return 0.3
+                return 0.2
             case "fast":
                 return 0.1
             default:
