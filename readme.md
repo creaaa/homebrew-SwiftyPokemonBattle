@@ -1,8 +1,8 @@
 
-Swifty Pokemon Battle α (Ver 0.0.0)
+# Swifty Pokemon Battle α (Ver 0.0.0)
 
 
-High-Fidelity Pokemon Battle Simulator on CLI
+## High-Fidelity Pokemon Battle Simulator on CLI
 
 Swifty Pokemon Battle α is a command line tool available on Terminal.app (Only for Mac OS).
 This App aims precise transplantation of original Pokemon Series.
@@ -36,9 +36,11 @@ This App persues possibility of AI equal to human's intelligence.
 
 A substance is this binary file: spb
 
+You can download that here: https://www.dropbox.com/s/lmumq3l35xiync7/spb?dl=0
+
 You can execute this file by typing command below:
 
-$ cd spb
+$ cd downloadPath.../spb
 $ chmod 755 spb
 $ ./spb [option(in detail below)]
 
@@ -160,9 +162,11 @@ Gengar
 【つかいかた】
 
 実体は、バイナリファイル spb となります。
+こちらから ダウンロードできます : https://www.dropbox.com/s/lmumq3l35xiync7/spb?dl=0
 以下のコマンドを入力することで、上記ファイル spb が実行可能となり、プレイすることができます 
 
-$ cd spb
+
+$ cd downloadPath.../spb
 $ chmod 755 spb
 $ ./spb [オプション(詳細は以下)]
 
