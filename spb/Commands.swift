@@ -78,24 +78,3 @@ enum PokemonChangeSceneCommand: String {
     }
 }
 
-
-
-//enum FieldConditionCommand: String {
-//    
-//    case condition = "c: Condition"
-//    
-//    static let ALL = [
-//        FieldConditionCommand.condition
-//    ]
-//    
-//    static func getFromInput(_ input:String) -> Command? {
-//        switch (input.lowercased()) {
-//        case "c":
-//            return FieldConditionCommand.condition
-//    }
-//}
-
-
-
-
-

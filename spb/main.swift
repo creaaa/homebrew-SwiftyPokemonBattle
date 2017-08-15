@@ -180,6 +180,8 @@ var foePokemonAry = [foePokemon1, foePokemon2, foePokemon3, foePokemon4, foePoke
 //userDefaults.removeObject(forKey: "slot5")
 //userDefaults.removeObject(forKey: "slot6")
 
+//userDefaults.removeObject(forKey: "winCount")
+
 
 // ビューから上記群プロパティをプリントするわけだが、
 //  各プロパティが評価された後でないと正常にプリントされない(クラッシュはしないようだが。)

@@ -1,5 +1,5 @@
 
-Swifty Pokemon Battle α (Ver 0.0.0)
+Swifty Pokemon Battle(ver 1.0)
 
 
 High-Fidelity Pokemon Battle Simulator on CLI
@@ -31,7 +31,7 @@ This App persues possibility of AI equal to human's intelligence.
 
 
 
-【Usage】
+### Usage
 
 
 A substance is this binary file: spb
@@ -64,7 +64,7 @@ e.g. Want to set Pokemon to Slot 1 →  ./spb 1
 ./spb -h
 
 
-<The chosen 10 Pokemons>
+### The chosen 10 Pokemons
 
 Pikachu
 
@@ -157,7 +157,7 @@ Gengar
 
 
 
-【つかいかた】
+### つかいかた
 
 実体は、バイナリファイル spb となります。
 以下のコマンドを入力することで、上記ファイル spb が実行可能となり、プレイすることができます 
@@ -188,7 +188,7 @@ e.g. スロット1にセットしたい →  ./spb 1
 ./spb -h
 
 
-<えらばれし 10ひきの ポケモンたち>
+### えらばれし 10ひきの ポケモンたち
 
 ピカチュウ
 
@@ -280,11 +280,11 @@ e.g. スロット1にセットしたい →  ./spb 1
     - さいみんじゅつ
 
 
-Requirements
+### Requirements
 
 Client OS : Only for mac OS X (10.11 El Capitan or above)
 Client : Terminal.app
 
 
-©2016 Pokémon ©1995-2016 Nintendo/Creatures Inc./GAME FREAK inc. 
+©2017 Pokémon ©1995-2017 Nintendo/Creatures Inc./GAME FREAK inc. 
 This repository can be deleted without notice.

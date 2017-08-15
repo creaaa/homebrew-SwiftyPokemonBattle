@@ -7,8 +7,6 @@ protocol View {
     @objc optional func execute(cmd: Int)
 }
 
-
-
 class ArgsExecuteView: View {
     
     func execute() {

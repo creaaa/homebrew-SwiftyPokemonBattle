@@ -2,8 +2,6 @@
 
 import Foundation
 
-
-
 extension String {
     
     func makeSpace(str: String) -> String {
@@ -479,10 +477,6 @@ class FunctionCalledFromMain {
                     // すでにスロット内に存在するポケモンの名前が格納される配列
                     var derivedPokeName: [String] = []
 
-                    
-
-                    
-                    
                     for idx in 0...5 {
                         
 //                        print("\(idx)です　今")
@@ -1846,18 +1840,6 @@ class FunctionCalledFromMain {
         
         return analyzeViewString
     }
-    
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }  // このファイルの終了
 

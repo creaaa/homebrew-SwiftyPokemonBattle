@@ -391,15 +391,11 @@ class AI {
         }
         // ここまではOK、でんこうせっかは　hitAry に ちゃんと入った。
         
-        
-        
-        
-        
         derivedMoveAry = hitAry
         
-        for each in derivedMoveAry {
-//            print("抽出ささされたわざは \(each.name) だぞ")
-        }
+//        for each in derivedMoveAry {
+////            print("抽出ささされたわざは \(each.name) だぞ")
+//        }
         
         // ↑の関数により、わざ候補が derivedMoveAryに格納されたはずなので、
         // 相手のとくせいが ふゆう なら、このタイミングでわざ候補の中から"じしん"をremoveすればよい
@@ -418,9 +414,9 @@ class AI {
             derivedMoveAry = derivedMoveAry.filter({$0.name != "Fake Out"})
 //            print("これは 猫騙し判定 先制攻撃攻撃様式だ 除去後の相手の抽出されたこうげきリストは　\(derivedMoveAry) だぞ！")
             
-            for each in derivedMoveAry {
-//                print("抽出pocoわざは \(each.name) だぞ")
-            }
+//            for each in derivedMoveAry {
+////                print("抽出pocoわざは \(each.name) だぞ")
+//            }
         }
         
         
@@ -443,9 +439,9 @@ class AI {
         
         
         // ここ、 derivedMoveAryが空だと、一回も実行されない
-        for each in derivedMoveAry {
-//            print("ふつーの攻撃 抽出ささされたわざは \(each.name) だぞ")
-        }
+//        for each in derivedMoveAry {
+////            print("ふつーの攻撃 抽出ささされたわざは \(each.name) だぞ")
+//        }
         
         // ↑の関数により、わざ候補が derivedMoveAryに格納されたはずなので、
         // 相手のとくせいが ふゆう なら、このタイミングでわざ候補の中から"じしん"をremoveすればよい
@@ -464,9 +460,9 @@ class AI {
             
 //            print("これは 猫騙し判定 ふつーの攻撃様式だ")
             
-            for each in derivedMoveAry {
-//                print("抽出pocoわざは \(each.name) だぞ")
-            }
+//            for each in derivedMoveAry {
+////                print("抽出pocoわざは \(each.name) だぞ")
+//            }
         }
         
 
@@ -755,15 +751,5 @@ class AI {
         
             return generateChangeToNo(ary: &pointAary)
         }
-    
-    
-    
-    
-    
-
 
 } // クラスの終了
-
-
-
-

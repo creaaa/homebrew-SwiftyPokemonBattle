@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		442D2E471DD39D3600EE5CA7 /* Chemistry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E461DD39D3600EE5CA7 /* Chemistry.swift */; };
-		442D2E4B1DD39D4100EE5CA7 /* AVPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E481DD39D4000EE5CA7 /* AVPlayer.swift */; };
 		442D2E4C1DD39D4100EE5CA7 /* BattleField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E491DD39D4100EE5CA7 /* BattleField.swift */; };
 		442D2E4D1DD39D4100EE5CA7 /* BuffDebuffStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E4A1DD39D4100EE5CA7 /* BuffDebuffStruct.swift */; };
 		442D2E541DD39D5100EE5CA7 /* Commands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E4E1DD39D5100EE5CA7 /* Commands.swift */; };
@@ -23,7 +22,6 @@
 		442D2E611DD39D7100EE5CA7 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E601DD39D7100EE5CA7 /* Pokemon.swift */; };
 		442D2E631DD39D7C00EE5CA7 /* Views.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E621DD39D7C00EE5CA7 /* Views.swift */; };
 		442D2E651DD39D8900EE5CA7 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442D2E641DD39D8900EE5CA7 /* Model.swift */; };
-		442D2E6C1DD441DE00EE5CA7 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 442D2E6B1DD441DE00EE5CA7 /* AudioToolbox.framework */; };
 		442E428E1DD4EFDC00FB8F4F /* readme.md in Sources */ = {isa = PBXBuildFile; fileRef = 442E428D1DD4EFDC00FB8F4F /* readme.md */; };
 		442E42901DD511AE00FB8F4F /* AI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442E428F1DD511AE00FB8F4F /* AI.swift */; };
 /* End PBXBuildFile section */
@@ -43,7 +41,6 @@
 /* Begin PBXFileReference section */
 		442D2E3C1DD39D2700EE5CA7 /* spb */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = spb; sourceTree = BUILT_PRODUCTS_DIR; };
 		442D2E461DD39D3600EE5CA7 /* Chemistry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chemistry.swift; sourceTree = "<group>"; };
-		442D2E481DD39D4000EE5CA7 /* AVPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AVPlayer.swift; sourceTree = "<group>"; };
 		442D2E491DD39D4100EE5CA7 /* BattleField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BattleField.swift; sourceTree = "<group>"; };
 		442D2E4A1DD39D4100EE5CA7 /* BuffDebuffStruct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BuffDebuffStruct.swift; sourceTree = "<group>"; };
 		442D2E4E1DD39D5100EE5CA7 /* Commands.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Commands.swift; sourceTree = "<group>"; };
@@ -58,11 +55,9 @@
 		442D2E601DD39D7100EE5CA7 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		442D2E621DD39D7C00EE5CA7 /* Views.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Views.swift; sourceTree = "<group>"; };
 		442D2E641DD39D8900EE5CA7 /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
-		442D2E691DD3A58000EE5CA7 /* memo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = memo.txt; sourceTree = "<group>"; };
 		442D2E6B1DD441DE00EE5CA7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		442E428D1DD4EFDC00FB8F4F /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		442E428F1DD511AE00FB8F4F /* AI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AI.swift; sourceTree = "<group>"; };
-		44362C981DD694C00037B405 /* AImemo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = AImemo.txt; path = ../AImemo.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +65,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				442D2E6C1DD441DE00EE5CA7 /* AudioToolbox.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,14 +91,12 @@
 		442D2E3E1DD39D2700EE5CA7 /* spb */ = {
 			isa = PBXGroup;
 			children = (
-				44362C981DD694C00037B405 /* AImemo.txt */,
 				442E428D1DD4EFDC00FB8F4F /* readme.md */,
-				442D2E5A1DD39D5C00EE5CA7 /* main.swift */,
 				442D2E531DD39D5100EE5CA7 /* Judge.swift */,
 				442D2E661DD39F9400EE5CA7 /* Model */,
-				442D2E481DD39D4000EE5CA7 /* AVPlayer.swift */,
 				442D2E671DD39FB200EE5CA7 /* Views */,
 				442D2E681DD39FDF00EE5CA7 /* Controllers */,
+				442D2E5A1DD39D5C00EE5CA7 /* main.swift */,
 			);
 			path = spb;
 			sourceTree = "<group>";
@@ -131,7 +123,6 @@
 				442D2E5C1DD39D6900EE5CA7 /* MessageOutputStructs.swift */,
 				442D2E621DD39D7C00EE5CA7 /* Views.swift */,
 				442D2E521DD39D5100EE5CA7 /* FunctionCalledFromMain.swift */,
-				442D2E691DD3A58000EE5CA7 /* memo.txt */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -227,7 +218,6 @@
 				442D2E5B1DD39D5C00EE5CA7 /* main.swift in Sources */,
 				442D2E551DD39D5100EE5CA7 /* Controllers.swift in Sources */,
 				442D2E591DD39D5100EE5CA7 /* Judge.swift in Sources */,
-				442D2E4B1DD39D4100EE5CA7 /* AVPlayer.swift in Sources */,
 				442E428E1DD4EFDC00FB8F4F /* readme.md in Sources */,
 				442D2E5E1DD39D6900EE5CA7 /* MessageOutputStructs.swift in Sources */,
 			);

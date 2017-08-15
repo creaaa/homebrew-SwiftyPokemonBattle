@@ -22,32 +22,22 @@ class PokemonController: ControllerBase {
     override func handleCommand(_ command:Command, data:[String]) -> View? {
         
         switch command {
-        
             case .MOVE1:
                 return listAll()
-        
             case .MOVE2:
                 return listAll()
-        
             case .MOVE3:
                 return listAll()
-            
             case .MOVE4:
                 return listAll()
-            
             case .CHANGE_POKEMON:
                 return listAll()
-            
             case .CONDITION:
-                
                 return condition()
-            
             case .SURRENDER:
                 return surrender()
             case .EXCEPTION:
                 return exception()
-//            default:
-//                return super.handleCommand(command, data: data)
         }
     }
     
@@ -78,9 +68,6 @@ class FieldConditionController: ControllerBase {
     override func handleCommand(_ command: Command, data: [String]) -> View? {
         
         switch command {
-            
-//            case .CONDITION:
-//                return  condition()
             default:
                 return super.handleCommand(command, data: data)
         }
@@ -91,15 +78,5 @@ class FieldConditionController: ControllerBase {
         return FieldConditionView()
     }
 }
-
-
-
-
-
-
-
-
-
-
 
 
