@@ -1,6 +1,17 @@
 
 # Swifty Pokemon Battle(ver 1.0)
 
+<div align="center">
+<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms4min.jpg" width="200px" height="356px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms3min.jpg" width="200px" height="356px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms1min.jpg" width="200px" height="356px" style="margin-right: 20px">
+</div>
+
+<div align="center">
+<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms4min.jpg" width="200px" height="356px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms3min.jpg" width="200px" height="356px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms1min.jpg" width="200px" height="356px" style="margin-right: 20px">
+</div>
 
 ## High-Fidelity Pokemon Battle Simulator on CLI
 
@@ -275,9 +286,9 @@ e.g. スロット1にセットしたい →  ./spb 1
 
 ### Requirements
 
-Client OS : Only for mac OS X (10.11 El Capitan or above)
+Client OS : Only for mac OS X (10.11 El Capitan or above)<br>
 Client : Terminal.app
 
 
-©2017 Pokémon ©1995-2017 Nintendo/Creatures Inc./GAME FREAK inc. 
+©2017 Pokémon ©1995-2017 Nintendo/Creatures Inc./GAME FREAK inc. <br>
 This repository can be deleted without notice.
