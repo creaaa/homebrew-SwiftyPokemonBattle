@@ -2,15 +2,15 @@
 # Swifty Pokemon Battle(ver 1.0)
 
 <div align="center">
-<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms4min.jpg" width="200px" height="356px" style="margin-right: 20px">
-<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms3min.jpg" width="200px" height="356px" style="margin-right: 20px">
-<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms1min.jpg" width="200px" height="356px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/p1.png" width="240px" height="180px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/p2.png" width="240px" height="180px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/p3.png" width="240px" height="180px" style="margin-right: 20px">
 </div>
 
 <div align="center">
-<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms4min.jpg" width="200px" height="356px" style="margin-right: 20px">
-<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms3min.jpg" width="200px" height="356px" style="margin-right: 20px">
-<img src="https://github.com/creaaa/MovieSanctuary/blob/master/Screenshots/ms1min.jpg" width="200px" height="356px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/p4.png" width="240px" height="180px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/p5.png" width="240px" height="180px" style="margin-right: 20px">
+<img src="https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/p6.png" width="240px" height="180px" style="margin-right: 20px">
 </div>
 
 ## High-Fidelity Pokemon Battle Simulator on CLI
