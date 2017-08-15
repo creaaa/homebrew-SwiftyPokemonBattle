@@ -6,6 +6,7 @@ extension String {
     
     func makeSpace(str: String) -> String {
         
+        
         var pokeName = str
         
         // 日本語
@@ -269,9 +270,8 @@ class FunctionCalledFromMain {
             }
         }
             
-            
-            
-        // 直接指定するのはこちら。
+        
+        // 直接指定するのはこちらです。
         // この時点で オブジェクトのじょうたいで　セットされているのが理想だわ 多分
         myPokemon1 = repository.Pokemons[randIdx[0]]
         myPokemon2 = repository.Pokemons[randIdx[1]]
