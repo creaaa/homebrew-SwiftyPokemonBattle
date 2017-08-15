@@ -31,8 +31,8 @@ A substance is this binary file: spb
 
 You can execute this file by typing command below:
 
-$ cd spb
-$ chmod 755 spb
+$ cd spb<br>
+$ chmod 755 spb<br>
 $ ./spb [option(in detail below)]
 
 
@@ -155,8 +155,8 @@ Gengar
 実体は、バイナリファイル spb となります。
 以下のコマンドを入力することで、上記ファイル spb が実行可能となり、プレイすることができます 
 
-$ cd spb
-$ chmod 755 spb
+$ cd spb<br>
+$ chmod 755 spb<br>
 $ ./spb [オプション(詳細は以下)]
 
 
