@@ -1,8 +1,8 @@
 
-# Swifty Pokemon Battle α (Ver 0.0.0)
+Swifty Pokemon Battle(ver 1.0)
 
 
-## High-Fidelity Pokemon Battle Simulator on CLI
+High-Fidelity Pokemon Battle Simulator on CLI
 
 Swifty Pokemon Battle α is a command line tool available on Terminal.app (Only for Mac OS).
 This App aims precise transplantation of original Pokemon Series.
@@ -31,49 +31,40 @@ This App persues possibility of AI equal to human's intelligence.
 
 
 
-【Usage】
+### Usage
 
 
 A substance is this binary file: spb
 
-You can download that here: https://www.dropbox.com/s/lmumq3l35xiync7/spb?dl=0
-
 You can execute this file by typing command below:
 
-$ cd downloadPath.../spb
+$ cd spb
 $ chmod 755 spb
 $ ./spb [option(in detail below)]
 
 
 - Battle Now (Recommended: Please play from this mode)
-
-    ./spb -r
+./spb -r
 
 - Play battle by Pokemons you've stored in advance (For Expert)
 (You can't select this option before you set Pokemon to slot 1-6)
-
-    ./spb
+./spb
 
 - Store Pokemon you like by designating Slot Number
-
-    ./spb [1 or 2 or 3 or 4 or 5 or 6]
-
-    e.g. Want to set Pokemon to Slot 1 →  ./spb 1
+./spb [1 or 2 or 3 or 4 or 5 or 6]
+e.g. Want to set Pokemon to Slot 1 →  ./spb 1
 
 - Change speed of battle message (slow / middle <Default> / fast)
-
-    ./spb [--slow or --middle or --fast]
+./spb [--slow or --middle or --fast]
 
 - Toggle language (English <Default> / Japanese)
-
-    ./spb -l
+./spb -l
 
 - Display help message
+./spb -h
 
-    ./spb -h
 
-
-<The chosen 10 Pokemons>
+### The chosen 10 Pokemons
 
 Pikachu
 
@@ -166,49 +157,38 @@ Gengar
 
 
 
-【つかいかた】
+### つかいかた
 
 実体は、バイナリファイル spb となります。
-こちらから ダウンロードできます : https://www.dropbox.com/s/lmumq3l35xiync7/spb?dl=0
-
 以下のコマンドを入力することで、上記ファイル spb が実行可能となり、プレイすることができます 
 
-
-$ cd downloadPath.../spb
+$ cd spb
 $ chmod 755 spb
 $ ./spb [オプション(詳細は以下)]
 
 
-- とにかくバトルがしたい！ (推奨: はじめての方は まずこちらから 遊んでね)
-
-    ./spb -r
+- とにかくバトルがしたい! (推奨: はじめての方は まずこちらから 遊んでね)
+./spb -r
 
 - あらかじめ保存したポケモンでバトル！ (エキスパート向け)
-
-    (すべてのスロットにポケモンがセットされていないと 実行できません)
-
+(すべてのスロットにポケモンがセットされていないと 実行できません)
 ./spb
 
 - スロット番号を指定して ポケモンをセット
-
-    ./spb [1 or 2 or 3 or 4 or 5 or 6]
-
-        e.g. スロット1にセットしたい →  ./spb 1
+./spb [1 or 2 or 3 or 4 or 5 or 6]
+e.g. スロット1にセットしたい →  ./spb 1
 
 - バトルメッセージのスピードを変更 (おそい / ふつう<デフォルト> / はやい)
-
-    ./spb [--slow or --middle or --fast]
+./spb [--slow or --middle or --fast]
 
 - 言語の切り替え (英語<デフォルト> / 日本語)
-
-    ./spb -l
+./spb -l
 
 - ヘルプメッセージを表示
+./spb -h
 
-    ./spb -h
 
-
-<えらばれし 10ひきの ポケモンたち>
+### えらばれし 10ひきの ポケモンたち
 
 ピカチュウ
 
@@ -300,11 +280,11 @@ $ ./spb [オプション(詳細は以下)]
     - さいみんじゅつ
 
 
-Requirements
+### Requirements
 
 Client OS : Only for mac OS X (10.11 El Capitan or above)
 Client : Terminal.app
 
 
-©2016 Pokémon ©1995-2016 Nintendo/Creatures Inc./GAME FREAK inc. 
+©2017 Pokémon ©1995-2017 Nintendo/Creatures Inc./GAME FREAK inc. 
 This repository can be deleted without notice.
