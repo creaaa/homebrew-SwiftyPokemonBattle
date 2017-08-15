@@ -1,34 +1,27 @@
 
-Swifty Pokemon Battle(ver 1.0)
+# Swifty Pokemon Battle(ver 1.0)
 
 
-High-Fidelity Pokemon Battle Simulator on CLI
+## High-Fidelity Pokemon Battle Simulator on CLI
 
 Swifty Pokemon Battle α is a command line tool available on Terminal.app (Only for Mac OS).
 This App aims precise transplantation of original Pokemon Series.
 
 "Swifty" represents 3 features.
 
-
 ・High-Speed
-
 
 You can enjoy Pokemon Battle anytime, with comfortable tempo.
 
-
 ・including a lot of manners of Swift
-
 
 Swift, the language adopted for this project introduces modern notations (e.g. Closures, Optional Types, Tuple, Type inference, Generics, Paradigm of Functional Programming...). 
 This App takes those writing manners as many as possible so that it can induce power of this language.
 
-
 ・Wise AI
-
 
 The word "swift" also means intelligent, wise.
 This App persues possibility of AI equal to human's intelligence.
-
 
 
 ### Usage
