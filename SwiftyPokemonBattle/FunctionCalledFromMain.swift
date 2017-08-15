@@ -126,7 +126,7 @@ class FunctionCalledFromMain {
             if lang == true {
                 
                 print("")
-                print("                     Swifty Pokemon Battle α (Ver 0.0.0)")
+                print("                     Swifty Pokemon Battle α (ver 1.0)")
                 print("")
                 print("\u{1b}[1;4m", terminator: "") // 太字
                 print(" - ランダムバトル！ (推奨: はじめての方は まずこちらから 遊んでね)")
@@ -157,7 +157,7 @@ class FunctionCalledFromMain {
             } else {
         
                 print("")
-                print("                     Swifty Pokemon Battle α (Ver 0.0.0)")
+                print("                     Swifty Pokemon Battle α (ver 1.0)")
                 print("")
                 print("\u{1b}[1;4m", terminator: "") // 太字
                 print(" - Play random battle (Recommended: Please play from this mode)")
