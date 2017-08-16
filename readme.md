@@ -71,7 +71,7 @@ e.g. Want to set Pokemon to Slot 1 →  ./spb 1
 
 ### The chosen 10 Pokemons
 
-![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Pikachu.gif)
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Pikachu.gif)<br>
 Pikachu
 
     Ability : Static
@@ -107,7 +107,7 @@ Blastoise
     - Iron Deffense
     - Ice Beam
 
-![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Garchomp.gif)
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Garchomp.gif)<br>
 Garchomp
 
     Ability : Rough Skin
