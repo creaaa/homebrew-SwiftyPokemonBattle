@@ -79,6 +79,7 @@ Pikachu
     - Thunder wave
     - Feint
 
+
 ![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Venusaur.gif)<br>
 Bulbasaur
 
@@ -195,6 +196,7 @@ e.g. スロット1にセットしたい →  ./spb 1
 
 ### えらばれし 10ひきの ポケモンたち
 
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Pikachu.gif)<br>
 ピカチュウ
 
     とくせい : せいでんき
@@ -203,7 +205,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - でんじは
     - フェイント
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Venusaur.gif)<br>
 フシギバナ
 
     とくせい : しんりょく
@@ -212,7 +214,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - ヘドロばくだん
     - ねむりごな
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Charizard.gif)<br>
 リザードン
 
     とくせい : もうか
@@ -221,7 +223,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - おにび
     - フレアドライブ
     
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Blastoise.gif)<br>
 カメックス
 
     とくせい : げきりゅう
@@ -230,7 +232,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - てっぺき
     - れいとうビーム
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Garchomp.gif)<br>
 ガブリアス
     
     とくせい : さめはだ
@@ -239,7 +241,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - ドラゴンクロー
     - じしん
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Alakazam.gif)<br>
 フーディン
     
     とくせい : せいしんりょく
@@ -248,7 +250,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - シャドーボール
     - サイコキネシス
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Mienshao.gif)<br>
 コジョンド
 
     とくせい : すてみ
@@ -257,7 +259,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - ねこだまし
     - がんせきふうじ
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Sylveon.gif)<br>
 ニンフィア
 
     とくせい : フェアリースキン
@@ -266,7 +268,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - ハイパーボイス
     - でんこうせっか
     
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Lucario.gif)<br>
 ルカリオ
 
     とくせい : ふくつのこころ
@@ -275,7 +277,7 @@ e.g. スロット1にセットしたい →  ./spb 1
     - しんそく
     - じしん
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Gengar.gif)<br>
 ゲンガー
     
     とくせい : ふゆう
