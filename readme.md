@@ -70,7 +70,6 @@ e.g. Want to set Pokemon to Slot 1 →  ./spb 1
 
 
 ### The chosen 10 Pokemons
-
 ![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Pikachu.gif)<br>
 Pikachu
 
@@ -80,7 +79,7 @@ Pikachu
     - Thunder wave
     - Feint
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Venusaur.gif)<br>
 Bulbasaur
 
     Ability : Overgrow
@@ -89,7 +88,7 @@ Bulbasaur
     - Sludge Bomb
     - Sleep Powder
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Charizard.gif)<br>
 Charizard
 
     Ability : Blaze
@@ -98,7 +97,7 @@ Charizard
     - Will-O-Wisp
     - Flare Blitz
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Blastoise.gif)<br>
 Blastoise
 
     Ability : Torrent
@@ -116,7 +115,7 @@ Garchomp
     - Dragon Claws
     - Earthquack
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Alakazam.gif)<br>
 Alakazam
 
     Ability : Inner Focus
@@ -125,7 +124,7 @@ Alakazam
     - Shadow Ball
     - Psychic
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Mienshao.gif)<br>
 Mienshao
 
     Ability : reckless
@@ -134,7 +133,7 @@ Mienshao
     - Fake Out
     - Rock Tomb
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Sylveon.gif)<br>
 Sylveon
 
     Ability : pixilate
@@ -143,7 +142,7 @@ Sylveon
     - Hyper Voice
     - Quick Attack
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Lucario.gif)<br>
 Lucario
 
     Ability : Steadfast
@@ -152,7 +151,7 @@ Lucario
     - Extreme Speed
     - Earthquack
 
-
+![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Gengar.gif)<br>
 Gengar
 
     Ability : Levitate
