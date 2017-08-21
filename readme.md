@@ -81,7 +81,7 @@ Pikachu
 
 
 ![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Venusaur.gif)<br>
-Bulbasaur
+Venusaur
 
     Ability : Overgrow
     - Toxic
