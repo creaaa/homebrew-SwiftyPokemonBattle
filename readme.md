@@ -1,5 +1,5 @@
 
-# Swifty Pokemon Battle(ver 1.0)
+# Swifty Pokemon Battle(ver 1.0.2)
 
 
 <div align="center">
