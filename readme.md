@@ -43,31 +43,40 @@ A substance is this binary file: spb
 
 You can execute this file by typing command below:
 
-$ cd spb<br>
-$ chmod 755 spb<br>
-$ ./spb [option(in detail below)]
+# $ cd spb<br>
+# $ chmod 755 spb<br>
+# $ ./spb [option(in detail below)]
+
+    $ brew install creaaa/SwiftyPokemonBattle/Swiftypokemonbattle
+
+
+
 
 
 - Battle Now (Recommended: Please play from this mode)
-./spb -r
+# ./spb -r
+$ spb -r
 
 - Play battle by Pokemons you've stored in advance (For Expert)
 (You can't select this option before you set Pokemon to slot 1-6)
-./spb
+# ./spb
+$ spb
 
 - Store Pokemon you like by designating Slot Number
-./spb [1 or 2 or 3 or 4 or 5 or 6]
-e.g. Want to set Pokemon to Slot 1 →  ./spb 1
+$ ./spb [1 or 2 or 3 or 4 or 5 or 6]
+e.g. Want to set Pokemon to Slot 1 →  $ spb 1
 
 - Change speed of battle message (slow / middle <Default> / fast)
-./spb [--slow or --middle or --fast]
+# ./spb [--slow or --middle or --fast]
+$ spb [--slow or --middle or --fast]
 
 - Toggle language (English <Default> / Japanese)
-./spb -l
+# ./spb -l
+$ spb -l
 
 - Display help message
-./spb -h
-
+# ./spb -h
+$ spb -h
 
 ### The chosen 10 Pokemons
 ![result](https://github.com/creaaa/SwiftyPokemonBattle/blob/master/res/Pikachu.gif)<br>
@@ -168,30 +177,32 @@ Gengar
 実体は、バイナリファイル spb となります。
 以下のコマンドを入力することで、上記ファイル spb が実行可能となり、プレイすることができます 
 
-$ cd spb<br>
-$ chmod 755 spb<br>
-$ ./spb [オプション(詳細は以下)]
+# $ cd spb<br>
+# $ chmod 755 spb<br>
+# $ ./spb [オプション(詳細は以下)]
+    $ brew install creaaa/SwiftyPokemonBattle/Swiftypokemonbattle
+    
 
 
 - とにかくバトルがしたい! (推奨: はじめての方は まずこちらから 遊んでね)
-./spb -r
+$ spb -r
 
 - あらかじめ保存したポケモンでバトル！ (エキスパート向け)
 (すべてのスロットにポケモンがセットされていないと 実行できません)
-./spb
+$ spb
 
 - スロット番号を指定して ポケモンをセット
-./spb [1 or 2 or 3 or 4 or 5 or 6]
-e.g. スロット1にセットしたい →  ./spb 1
+$ spb [1 or 2 or 3 or 4 or 5 or 6]
+e.g. スロット1にセットしたい →  $ spb 1
 
 - バトルメッセージのスピードを変更 (おそい / ふつう<デフォルト> / はやい)
-./spb [--slow or --middle or --fast]
+$ spb [--slow or --middle or --fast]
 
 - 言語の切り替え (英語<デフォルト> / 日本語)
-./spb -l
+$ spb -l
 
 - ヘルプメッセージを表示
-./spb -h
+$ spb -h
 
 
 ### えらばれし 10ひきの ポケモンたち
