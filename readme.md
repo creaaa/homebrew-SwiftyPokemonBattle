@@ -289,7 +289,7 @@ e.g. スロット1にセットしたい →  ./spb 1
 
 ### Requirements
 
-Client OS : Only for mac OS X (10.11 El Capitan or above)<br>
+Client OS : For mac OS X (10.11 El Capitan or above)<br>
 Client : Terminal.app
 
 
