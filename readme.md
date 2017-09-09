@@ -46,25 +46,30 @@ You can execute this file by typing command below:
     $ brew install creaaa/SwiftyPokemonBattle/Swiftypokemonbattle
 
 
-- Battle Now (Recommended: Please play from this mode)
+Battle Now (Recommended: Please play from this mode)
 
     $ spb -r
 
-- Play battle by Pokemons you've stored in advance (For Expert)
+Play battle by Pokemons you've stored in advance (For Expert)
 (You can't select this option before you set Pokemon to slot 1-6)
+
     $ spb
 
-- Store Pokemon you like by designating Slot Number
+Store Pokemon you like by designating Slot Number
+
     $ ./spb [1 or 2 or 3 or 4 or 5 or 6]
     e.g. Want to set Pokemon to Slot 1 →  $ spb 1
 
-- Change speed of battle message (slow / middle <Default> / fast)
+Change speed of battle message (slow / middle <Default> / fast)
+
     $ spb [--slow or --middle or --fast]
 
-- Toggle language (English <Default> / Japanese)
+Toggle language (English <Default> / Japanese)
+
     $ spb -l
 
-- Display help message
+Display help message
+
     $ spb -h
 
 ### The chosen 10 Pokemons
