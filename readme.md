@@ -43,23 +43,14 @@ A substance is this binary file: spb
 
 You can execute this file by typing command below:
 
-# $ cd spb<br>
-# $ chmod 755 spb<br>
-# $ ./spb [option(in detail below)]
-
     $ brew install creaaa/SwiftyPokemonBattle/Swiftypokemonbattle
 
 
-
-
-
 - Battle Now (Recommended: Please play from this mode)
-# ./spb -r
 $ spb -r
 
 - Play battle by Pokemons you've stored in advance (For Expert)
 (You can't select this option before you set Pokemon to slot 1-6)
-# ./spb
 $ spb
 
 - Store Pokemon you like by designating Slot Number
@@ -67,15 +58,12 @@ $ ./spb [1 or 2 or 3 or 4 or 5 or 6]
 e.g. Want to set Pokemon to Slot 1 →  $ spb 1
 
 - Change speed of battle message (slow / middle <Default> / fast)
-# ./spb [--slow or --middle or --fast]
 $ spb [--slow or --middle or --fast]
 
 - Toggle language (English <Default> / Japanese)
-# ./spb -l
 $ spb -l
 
 - Display help message
-# ./spb -h
 $ spb -h
 
 ### The chosen 10 Pokemons
@@ -177,9 +165,6 @@ Gengar
 実体は、バイナリファイル spb となります。
 以下のコマンドを入力することで、上記ファイル spb が実行可能となり、プレイすることができます 
 
-# $ cd spb<br>
-# $ chmod 755 spb<br>
-# $ ./spb [オプション(詳細は以下)]
     $ brew install creaaa/SwiftyPokemonBattle/Swiftypokemonbattle
     
 
