@@ -47,6 +47,7 @@ You can execute this file by typing command below:
 
 
 - Battle Now (Recommended: Please play from this mode)
+
     $ spb -r
 
 - Play battle by Pokemons you've stored in advance (For Expert)
