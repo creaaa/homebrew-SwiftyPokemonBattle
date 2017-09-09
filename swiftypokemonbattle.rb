@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class SwiftyPokemonBattle < Formula
+class Swiftypokemonbattle < Formula
   desc "👾 High-Fidelity Pokemon Battle Simulator 💨"
   homepage ""
   url "https://github.com/creaaa/SwiftyPokemonBattle/archive/v1.0.tar.gz"
