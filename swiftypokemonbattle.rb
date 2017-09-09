@@ -11,15 +11,6 @@ class spb < Formula
   # depends_on "cmake" => :build
 
   def install
-    # ENV.deparallelize  # if your formula fails when building in parallel
-
-    # Remove unrecognized options if warned by configure
-    #system "./configure", "--disable-debug",
-                          "--disable-dependency-tracking",
-                          "--disable-silent-rules",
-                          "--prefix=#{prefix}"
-    # system "cmake", ".", *std_cmake_args
-    #system "make", "install" # if this fails, try separate make/make install steps
     bin.install "spb"
   end
 
