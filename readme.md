@@ -57,7 +57,7 @@ Play battle by Pokemons you've stored in advance (For Expert)
 
 Store Pokemon you like by designating Slot Number
 
-    $ ./spb [1 or 2 or 3 or 4 or 5 or 6]
+    $ spb [1 or 2 or 3 or 4 or 5 or 6]
     e.g. Want to set Pokemon to Slot 1 →  $ spb 1
 
 Change speed of battle message (slow / middle <Default> / fast)
