@@ -6,7 +6,7 @@ class Swiftypokemonbattle < Formula
   desc "👾 High-Fidelity Pokemon Battle Simulator 💨"
   homepage ""
   url "https://github.com/creaaa/homebrew-SwiftyPokemonBattle/releases/tag/v1.0"
-  sha256 "4b3f1bafabe8b95236c5eb1eae926fb07c5a5e60cf4adff1ae90b5d6bc33e9b3"
+  sha256 "b357691240412171f21e7f95d3ae8efd2bcc38763c204a22a8cd1f1c42f07c4d"
 
   def install
     bin.install "spb"
