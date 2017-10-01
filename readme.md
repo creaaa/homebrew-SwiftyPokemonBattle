@@ -43,7 +43,7 @@ A substance is this binary file: spb
 
 You can execute this file by typing command below:
 
-    $ brew install creaaa/SwiftyPokemonBattle/Swiftypokemonbattle
+    $ brew install creaaa/SwiftyPokemonBattle/SwiftyPokemonBattle
 
 
 Battle Now (Recommended: Please play from this mode)
